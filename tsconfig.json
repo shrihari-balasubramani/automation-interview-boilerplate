@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "declaration": true,
+        "skipLibCheck": true,
+        "target": "esnext",
+        "module": "esnext",
+        "sourceMap": true
+      },
+    "include": [
+      "tests",
+      "playwright.config.ts",
+      "playwright.config.ts",
+      "playwright.config.ts"
+    ]
+  }
+  
